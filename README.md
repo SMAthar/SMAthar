@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Athar Mahboob</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SMAthar&label=Profile%20views&color=0e75b6&style=flat" alt="SMAthar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SMAthar&theme=" alt="SMAthar" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science**
 - 💬 Ask me about **React, Angular, NextJs, Flutter, React Native and Django**
 - 📫 How to reach me **athar.cse1@gmail.com**
