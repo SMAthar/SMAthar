@@ -54,33 +54,36 @@
 
 ## 📊 GitHub Stats
 
+<!--
+  This SVG is generated inside this repo by .github/workflows/metrics.yml
+  (lowlighter/metrics). No external server is involved at render time,
+  so it can never show a broken image. It refreshes daily.
+-->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SMAthar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMAthar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMAthar&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
+<!--
+  ═══════════════════════════════════════════════════════════════════
+  OPTIONAL: Stats + Top Languages + Trophy cards (currently disabled)
+  ═══════════════════════════════════════════════════════════════════
+  The shared public instances (github-readme-stats.vercel.app and
+  github-profile-trophy.vercel.app) are rate-limited and return
+  402/503 errors, so these are commented out until you self-host.
+
+  To enable:
+  1. Fork anuraghazra/github-readme-stats (and ryo-ma/github-profile-trophy)
+  2. Deploy each fork to your own free Vercel account
+  3. Add a GitHub PAT as env variable PAT_1 in Vercel, then redeploy
+  4. Replace the domains below with your deployment URLs and
+     move these lines out of this comment block
+
+  <img height="180em" src="https://YOUR-STATS-APP.vercel.app/api?username=SMAthar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="180em" src="https://YOUR-STATS-APP.vercel.app/api/top-langs/?username=SMAthar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://YOUR-TROPHY-APP.vercel.app/?username=SMAthar&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+-->
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SMAthar&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
-</div>
-
----
-
-## ⚡ Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SMAthar&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
-</div>
-
----
-
 <div align="center">
 
 ### 💙 Thanks for stopping by!
